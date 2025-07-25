@@ -1,5 +1,9 @@
 # esp-idf-lib/bh1750
 
+[![Build examples](https://github.com/esp-idf-lib/bh1750/actions/workflows//build.yml/badge.svg)](https://github.com/esp-idf-lib/bh1750/actions/workflows//build.yml)
+[![Build docs](https://github.com/esp-idf-lib/bh1750/actions/workflows//build-docs.yml/badge.svg)](https://github.com/esp-idf-lib/bh1750/actions/workflows//build-docs.yml)
+[![Validation](https://github.com/esp-idf-lib/bh1750/actions/workflows//validate-component.yml/badge.svg)](https://github.com/esp-idf-lib/bh1750/actions/workflows//validate-component.yml)
+
 Driver for BH1750 light sensor.
 
 * [Documentation](https://esp-idf-lib.github.io/bh1750/)
@@ -11,7 +15,7 @@ Driver for BH1750 light sensor.
 ## Installation
 
 ```sh
-idf.py add-dependency esp-idf-lib/bh1750^1.1.0
+idf.py add-dependency esp-idf-lib/bh1750
 ```
 
 ## Support
