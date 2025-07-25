@@ -15,5 +15,5 @@ menu "Example configuration"
                 Choose this when ADDR pin is high.
     endchoice
 
-    rsource "../../../../devtools/Kconfig.i2c"
+    rsource "../../../Kconfig.i2c"
 endmenu
