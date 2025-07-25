@@ -11,7 +11,7 @@ Driver for BH1750 light sensor.
 ## Installation
 
 ```sh
-idf.py add-dependency "esp-idf-lib/bh1750^1.1.0
+idf.py add-dependency esp-idf-lib/bh1750^1.1.0
 ```
 
 ## Support
